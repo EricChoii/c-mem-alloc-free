@@ -1,12 +1,16 @@
 # mem-alloc-free
+## Description
+This project aims to explore the inside of malloc functions.
+- implemented two primary functions in C: memory allocation and free.
 
-Let's explore the inside of malloc functions. Implemented two primary functions in C: memory allocation and free.
+This project is part of the course cs354, Machine Organization and Assembly, at UW-Madison.
 
-This project is done in cs354, Machine Organization and Assembly, at UW-Madison.
+## Skills Used
+- C
 
 ## Notes
 Made by Eric Choi
 
-The .zip file does not include completed work for "*mem_functions.c*" to abide by plagiarism policies.
+Abiding by plagiarism policies, the .zip file does not provide complete work for "*mem_functions. c*"
 
 If any question or help, please reach out to https://www.linkedin.com/in/eric-choi-2b10b11a0/
