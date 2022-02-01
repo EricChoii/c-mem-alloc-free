@@ -3,7 +3,7 @@
 This project aims to explore the inside of malloc functions.
 - implemented two primary functions in C: memory allocation and free.
 
-This project is part of the course cs354, Machine Organization and Assembly, at UW-Madison.
+This project is part of the course work; cs354, Machine Organization and Assembly, at UW-Madison.
 
 ## Skills Used
 - C
